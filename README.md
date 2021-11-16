@@ -30,7 +30,7 @@ a change. However, it is not a strict requirement enforced by CI.
 ## Report Issues / Send Patches
 
 This repository uses Gerrit for code changes. To learn how to submit changes to
-this repository, see https://golang.org/doc/contribute.html.
+this repository, see https://golang.org/doc/contribute.html.1111
 
 The main issue tracker for the tools repository is located at
 https://github.com/golang/go/issues. Prefix your issue with "x/tools/(your
